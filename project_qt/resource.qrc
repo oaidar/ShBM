@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/logo_era.png</file>
+        <file>img/logo.png</file>
+        <file>img/logo2.png</file>
+        <file>img/bekhterev.jpg</file>
+        <file>img/basdai_start.png</file>
+        <file>img/basfi_start.png</file>
+        <file>img/basdai.png</file>
+        <file>img/basfi.png</file>
+        <file>img/image.png</file>
+    </qresource>
+</RCC>
